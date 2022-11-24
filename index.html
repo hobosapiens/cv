@@ -121,9 +121,25 @@
         .avatar-mobile {
             display: none;
         }
-        .avatar-desktop img, .avatar-mobile img {
+        .avatar-desktop, .avatar-mobile {
+            position: relative;
+        }
+        .avatar-desktop__img, .avatar-mobile__img {
             width: 160px;
             border: 1px solid #000;
+            pointer-events: none
+        }
+        .glasses {
+            position: absolute;
+            left: 38px;
+            top: -60px;
+            pointer-events: none;
+            opacity: 0;
+            transition: all .5s ease;
+        }
+        .glasses.show {
+            top: 60px;
+            opacity: 1;
         }
         .bracket {
             margin-bottom: 10px;
@@ -176,7 +192,7 @@
                 <div class="main">
                     <div class="title_main headlines futuris">Anatoliy Popov</div>
                     <div class="avatar-mobile">
-                        <img src="images/avatar.jpg" alt="avatar">
+                        <img src="images/avatar.jpg" alt="avatar" class="avatar-mobile__img">
                     </div>
                     <div class="subtitle_main">FRONT-END DEVELOPER</div>
                     <div class="contacts">
@@ -299,7 +315,8 @@
             </div>
             <div class="col-xs-12 col-md-3">
                 <div class="avatar-desktop">
-                    <img src="images/avatar.jpg" alt="avatar">
+                    <img src="images/avatar.jpg" alt="avatar" class="avatar-desktop__img">
+                    <img src="images/glasses.png" class="glasses">
                 </div>
                 <div class="title headlines">Skills</div>
                 <div class="bracket">
@@ -409,5 +426,26 @@
             </div>
         </div>
     </div>
+    <script>
+        const contacts = document.querySelectorAll('.contacts > div');
+        const glasses = document.querySelector('.glasses');
+        let touches = 0;
+
+        contacts.forEach(contact => {
+            contact.addEventListener('mouseover', () => {
+                handleContactTouch();
+            }, { once: true })
+        })
+
+        function handleContactTouch() {
+            touches++;
+            if (touches === 4) {
+                glasses.classList.add('show');
+                setTimeout(() => {
+                    glasses.classList.remove('show');
+                }, 2500)
+            }
+        }
+    </script>
 </body>
 </html>
