@@ -128,21 +128,26 @@
         .avatar-desktop, .avatar-mobile {
             position: relative;
         }
-        .avatar-desktop__img, .avatar-mobile__img {
+        .avatar-desktop__img {
             width: 160px;
-            border: 1px solid #000;
-            pointer-events: none
+        }
+        .avatar-mobile__img {
+            width: 280px;
+        }
+        .avatar-desktop__img, .avatar-mobile__img {
+            pointer-events: none;
+            border: 1px solid #666666;
         }
         .glasses {
             position: absolute;
-            left: 38px;
+            left: 40px;
             top: -60px;
             pointer-events: none;
             opacity: 0;
             transition: all .5s ease;
         }
         .glasses.show {
-            top: 60px;
+            top: 74px;
             opacity: 1;
         }
         .bracket {
@@ -163,6 +168,9 @@
             }
         }
         @media screen and (max-width: 991px) {
+            .experience ul {
+                padding-left: 0;
+            }
             .cv {
                 padding-top: 20px;
                 padding-bottom: 20px;
@@ -188,6 +196,11 @@
                 display: none;
             }
         }
+        @media screen and (max-width: 480px) {
+            .title_main {
+                font-size: 46px;
+            }
+        }
     </style>
 </head>
 <body>
@@ -198,7 +211,7 @@
                     <div class="title_main headlines futuris">FRONT-END DEVELOPER</div>
                     <div class="subtitle_main">Anatoliy Popov</div>
                     <div class="avatar-mobile">
-                        <img src="images/avatar.jpg" alt="avatar" class="avatar-mobile__img">
+                        <img src="images/photo_mobile.jpg" alt="avatar" class="avatar-mobile__img">
                     </div>
                     <div class="contacts">
                         <div class="email">
@@ -239,11 +252,11 @@
                 </div>
                 <div class="experience">
                     <div class="title headlines">Summary</div>
-                    <div class="title_small">4.5 + years of experience in enterprise web development:</div>
+                    <div class="title_small">5 years of experience in enterprise web development:</div>
                     <ul>
-                        <li>> Experienced: Vue, VueX, Nuxt, JavaScript, HTML, CSS</li>
-                        <li>> Advanced: Jest, jQuery, GIT, CI / CD, B1+ English</li>
-                        <li>> Familiar: TypeScript, React, Redux, NodeJS, SQL</li>
+                        <li>> Main stack: Vue, VueX, Nuxt, JavaScript, HTML, CSS</li>
+                        <li>> Gained expertise: TypeScript, React, Redux, Jest, AWS, SQL</li>
+                        <li>> Related skills: NodeJS, jQuery, Rest API, GIT, Ci/Cd, B2 English</li>
                     </ul>
                     <div class="title headlines">Relevant Experience</div>
                     <!-- AKBARS -->
@@ -309,27 +322,30 @@
 
                     <div class="title headlines">About me</div>
                     <div class="text about">
-                        I have experience as a self-employed freelancer working with Word Press.<br />
-                        I also possess first-hand teamwork experience as an HTML and CSS coder in a product-based company with high layout complexity requirements.
-                        I worked as a front-end developer in an outsource company dealing with highload projects of large companies with millions of visitors.<br />
-                        At the moment I work in a bank. Our team is developing the bank's website and integrating it with other banking services.
-                        I continue to work on my mastery of JavaScript as well as English and often take courses.
-                        I am looking for a job in an EU company or other interesting career development opportunities.
+                        I possess first-hand teamwork experience as a JavsScript, HTML and CSS coder in a product-based
+                        company with high layout complexity requirements. I worked as a frontend developer in an outsource
+                        company dealing with highload projects of large companies with thousands of visitors.
+                        I also participated in project coverage with tests. Moreover, I created and maintained an enterprise
+                        project solo.<br /><br />
+                        At the moment, I work in a fintech company. Our team is developing the bank's website and integrating
+                        it with other banking services. I continue to work on my mastery of JavaScript as well as English and
+                        often take courses. I am looking for a job in an EU company or other interesting career development
+                        opportunities.
                     </div>
                 </div>
             </div>
             <div class="col-xs-12 col-md-3">
                 <div class="avatar-desktop">
-                    <img src="images/avatar.jpg" alt="avatar" class="avatar-desktop__img">
+                    <img src="images/photo_desktop.jpg" alt="avatar" class="avatar-desktop__img">
                     <img src="images/glasses.png" class="glasses">
                 </div>
                 <div class="title headlines">Skills</div>
                 <div class="bracket">
                     <div class="brackets-open">javaScript = [ </div>
                     <ul class="bracket-list">
-                        <li>'TypeScript',</li>
                         <li>'Vue ( VueX, Vuetify )',</li>
                         <li>'React ( Redux )',</li>
+                        <li>'TypeScript',</li>
                         <li>'JQuery',</li>
                         <li>'Jest'</li>
                     </ul>
