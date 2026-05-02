@@ -144,7 +144,7 @@
         "Yuri Gagarin State Technical University of Saratov<br />Information Systems and Programming, IRBIS Faculty / 2010",
       about_title: "About me",
       about_text:
-        "Frontend developer with 8 years of commercial experience across product companies, outsourcing, fintech, e-commerce, and online entertainment. Experienced in enterprise web projects, admin panels, high-traffic websites, and complex product interfaces.\n\nSkilled in building responsive, cross-browser, and pixel-perfect layouts for static pages, dynamic interfaces, admin panels, and complex product screens. Strong background in JavaScript, with hands-on experience in building new features, refactoring legacy code, API integration, performance optimization, and frontend architecture.\n\nI actively follow the development of AI technologies and use them in various projects, while continuing to write and review code myself.",
+        "Frontend developer with 8 years of commercial experience across product companies, outsourcing, fintech, e-commerce, and online entertainment. Experienced in enterprise web projects, admin panels, high-traffic websites, and complex product interfaces.\n\nSkilled in building responsive, cross-browser, and pixel-perfect layouts for static pages, dynamic interfaces, admin panels, and complex product screens. Strong background in JavaScript, with hands-on experience in building new features, refactoring legacy code, API integration, performance optimization, and frontend architecture.\n\nI actively follow the development of AI technologies and use them in various projects, while continuing to write code myself.",
     },
     ru: {
       page_title: "Анатолий Попов — Фронтенд-разработчик — CV",
@@ -254,13 +254,13 @@
       job_umi_7: "> Делал HTML-верстку писем",
 
       skills_title: "Навыки",
-      skills_core_label: "основа = [ ",
+      skills_core_label: "основные = [ ",
       skills_layout_label: "верстка = [ ",
       skills_technologies_label: "технологии = [ ",
-      skills_ai_label: "ai = [ ",
+      skills_ai_label: "ии = [ ",
       skills_tools_label: "инструменты = [ ",
       skills_design_label: "дизайн = [ ",
-      skills_teamwork_label: "команда = [ ",
+      skills_teamwork_label: "процессы = [ ",
       skills_personality_label: "качества = [ ",
       skills_interests_label: "интересы = [ ",
       skills_personality_items_mobile:
@@ -283,7 +283,7 @@
         "Саратовский государственный технический университет им. Ю. А. Гагарина<br />Программирование вычислительных систем, ИРБИС / 2010",
       about_title: "О себе",
       about_text:
-        "Фронтенд-разработчик с 8 годами коммерческого опыта в продуктовых компаниях, аутсорсинге, финтехе, электронной коммерции и сфере онлайн-развлечений. Работал над корпоративными веб-сайтами, административными панелями, сайтами с высокой посещаемостью и сложными продуктовыми интерфейсами — как самостоятельно, так и в составе больших команд.\n\nИмею опыт адаптивной, кроссбраузерной и pixel-perfect вёрстки статических и динамических интерфейсов и сайтов, а также обширный опыт работы с JavaScript и его фреймворками. Занимался разработкой новых продуктовых фич, рефакторингом устаревшего кода, интеграцией API, оптимизацией производительности и проектированием фронтенд-архитектуры.\n\nАктивно слежу за развитием и использую ИИ, при этом продолжаю самостоятельно писать и ревьюить код.",
+        "Фронтенд-разработчик с 8 годами коммерческого опыта в продуктовых компаниях, аутсорсинге, финтехе, электронной коммерции и сфере онлайн-развлечений. Работал над корпоративными веб-сайтами, административными панелями, сайтами с высокой посещаемостью и сложными продуктовыми интерфейсами — как самостоятельно, так и в составе больших команд.\n\nИмею опыт адаптивной, кроссбраузерной и pixel-perfect вёрстки статических и динамических интерфейсов и сайтов, а также обширный опыт работы с JavaScript и его фреймворками. Занимался разработкой новых продуктовых фич, рефакторингом устаревшего кода, интеграцией API, оптимизацией производительности и проектированием фронтенд-архитектуры.\n\nАктивно слежу за развитием и использую ИИ, при этом продолжаю самостоятельно писать код.",
     },
   };
 
