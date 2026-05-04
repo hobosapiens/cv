@@ -21,7 +21,7 @@
 
       summary_title: "Summary",
       summary_text:
-        "8 years of commercial experience building enterprise websites and applications, admin panels, and\u00A0scalable web interfaces.\nI am currently looking for a long-term career opportunity in web development.",
+        "Front-end developer with 8 years of commercial experience building enterprise websites, web applications, admin panels, and scalable user interfaces. I am currently looking for a long-term front-end development opportunity.",
       summary_core_stack:
         '> Core stack: <span class="black">HTML, CSS, JavaScript, Vue 2/3, Nuxt, Vuex, Pinia</span>',
       summary_additional:
@@ -89,7 +89,7 @@
       job_lenvendo_magnit_title: "# Magnit (chain of retail stores) ",
       job_lenvendo_magnit_1:
         "> Contributed to the development of marketplace and delivery service interfaces",
-      job_lenvendo_magnit_2: "> Maintained and improved a Vue application built with TypeScript.",
+      job_lenvendo_magnit_2: "> Maintained and improved a Vue application built with TypeScript",
       job_lenvendo_magnit_3: "> Covered features with Jest tests",
       job_lenvendo_magnit_4: "> Worked with CI processes in a large development team",
 
@@ -144,7 +144,7 @@
         "Yuri Gagarin State Technical University of Saratov<br />Information Systems and Programming, IRBIS Faculty / 2010",
       about_title: "About me",
       about_text:
-        "Frontend developer with 8 years of commercial experience across product companies, outsourcing, fintech, e-commerce, and online entertainment. Experienced in enterprise web projects, admin panels, high-traffic websites, and complex product interfaces.\n\nSkilled in building responsive, cross-browser, and pixel-perfect layouts for static pages, dynamic interfaces, admin panels, and complex product screens. Strong background in JavaScript, with hands-on experience in building new features, refactoring legacy code, API integration, performance optimization, and frontend architecture.\n\nI actively follow the development of AI technologies and use them in various projects, while continuing to write code myself.",
+        "I am a front-end developer with 8 years of commercial experience in enterprise web projects, admin panels, product interfaces, and scalable web applications.\n\nMy main focus is JavaScript, Vue/Nuxt, TypeScript, responsive layout, performance optimization, and maintainable front-end architecture. I have worked in product teams, outsourcing companies, fintech, e-commerce, and online entertainment projects.\n\nI actively follow AI technologies and use them in development while continuing to write and review code myself.",
     },
     ru: {
       page_title: "Анатолий Попов — Фронтенд-разработчик — CV",
@@ -283,7 +283,7 @@
         "Саратовский государственный технический университет им. Ю. А. Гагарина<br />Программирование вычислительных систем, ИРБИС / 2010",
       about_title: "О себе",
       about_text:
-        "Фронтенд-разработчик с 8 годами коммерческого опыта в продуктовых компаниях, аутсорсинге, финтехе, электронной коммерции и сфере онлайн-развлечений. Работал над корпоративными веб-сайтами, административными панелями, сайтами с высокой посещаемостью и сложными продуктовыми интерфейсами — как самостоятельно, так и в составе больших команд.\n\nИмею опыт адаптивной, кроссбраузерной и pixel-perfect вёрстки статических и динамических интерфейсов и сайтов, а также обширный опыт работы с JavaScript и его фреймворками. Занимался разработкой новых продуктовых фич, рефакторингом устаревшего кода, интеграцией API, оптимизацией производительности и проектированием фронтенд-архитектуры.\n\nАктивно слежу за развитием и использую ИИ, при этом продолжаю самостоятельно писать код.",
+        "Я фронтенд-разработчик с 8-летним коммерческим опытом в корпоративных веб-проектах, административных панелях, продуктовых интерфейсах и масштабируемых веб-приложениях.\n\nОсновной стек: JavaScript, Vue/Nuxt, TypeScript, HTML, CSS и современные фронтенд-инструменты. Моя экспертиза включает адаптивную вёрстку, оптимизацию производительности, работу с legacy-кодом и построение поддерживаемой фронтенд-архитектуры.\n\nЯ работал в продуктовых командах, аутсорсинге, финтехе, e-commerce и проектах в сфере онлайн-развлечений. Активно использую AI-инструменты в разработке, продолжая самостоятельно писать, анализировать и ревьюить код.",
     },
   };
 
