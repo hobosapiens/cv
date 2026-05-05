@@ -170,7 +170,7 @@
       experience_title: "Опыт работы",
 
       job_rabata_title:
-        'FRONT-END DEVELOPER @ RABATA <span class="subtitle_small">/ март 2025 — март 2026</span>',
+        'ФРОНТЕНД-РАЗРАБОТЧИК @ RABATA <span class="subtitle_small">/ март 2025 — март 2026</span>',
       job_rabata_dates: "/ март 2025 — март 2026",
       job_rabata_location: "[ Англия, Лондон, продуктовый стартап ]",
       job_rabata_1: "> Поддерживал фронтенд в нескольких проектах компании",
@@ -180,7 +180,7 @@
       job_rabata_5: "> Разрабатывал и внедрял продуктовые фичи",
 
       job_webbankir_title:
-        'FRONT-END DEVELOPER @ WEBBANKIR <span class="subtitle_small">/ февраль 2024 — март 2025</span>',
+        'ФРОНТЕНД-РАЗРАБОТЧИК @ WEBBANKIR <span class="subtitle_small">/ февраль 2024 — март 2025</span>',
       job_webbankir_dates: "/ февраль 2024 — март 2025",
       job_webbankir_location: "[ Россия, Москва, финтех ]",
       job_webbankir_1: "> Участвовал в разработке внутренних админ-панелей и сайтов компании",
@@ -188,7 +188,7 @@
       job_webbankir_3: "> Делал новые фичи для админок и клиентских интерфейсов",
 
       job_livetyping_title:
-        'FRONT-END DEVELOPER @ LIVETYPING <span class="subtitle_small">/ январь 2024 — июнь 2024</span>',
+        'ФРОНТЕНД-РАЗРАБОТЧИК @ LIVETYPING <span class="subtitle_small">/ январь 2024 — июнь 2024</span>',
       job_livetyping_dates: "/ январь 2024 — июнь 2024",
       job_livetyping_location: "[ Россия, аутсорс, проектная работа ]",
       job_livetyping_text:
@@ -196,7 +196,7 @@
       job_livetyping_1: "> Собрал фронтенд пректа с нуля на Vue 3 и Quasar",
 
       job_marfatech_title:
-        'FRONT-END DEVELOPER @ MARFATECH <span class="subtitle_small">/ июнь 2023 — ноябрь 2023</span>',
+        'ФРОНТЕНД-РАЗРАБОТЧИК @ MARFATECH <span class="subtitle_small">/ июнь 2023 — ноябрь 2023</span>',
       job_marfatech_dates: "/ июнь 2023 — ноябрь 2023",
       job_marfatech_location: "[ Кипр, стартап онлайн-казино ]",
       job_marfatech_1: "> Разрабатывал фичи и исправлял баги",
@@ -206,7 +206,7 @@
         "> Использовал современные технологии: Vue 3, TypeScript, Pinia и micro-frontends",
 
       job_akbars_title:
-        'FRONT-END DEVELOPER @ AK BARS DIGITAL <span class="subtitle_small">/ июнь 2022 — июнь 2023</span>',
+        'ФРОНТЕНД-РАЗРАБОТЧИК @ AK BARS DIGITAL <span class="subtitle_small">/ июнь 2022 — июнь 2023</span>',
       job_akbars_dates: "/ июнь 2022 — июнь 2023",
       job_akbars_location: "[ Россия, Казань, digital-подразделение банка Ак Барс ]",
       job_akbars_1: "> Делал компоненты и интерфейсы на Vue и Nuxt.js",
@@ -215,7 +215,7 @@
         "> Интегрировал фронтенд-фичи с внутренними сервисами и командами",
 
       job_lenvendo_title:
-        'FRONT-END DEVELOPER @ LENVENDO <span class="subtitle_small">/ апрель 2021 — май 2022</span>',
+        'ФРОНТЕНД-РАЗРАБОТЧИК @ LENVENDO <span class="subtitle_small">/ апрель 2021 — май 2022</span>',
       job_lenvendo_dates: "/ апрель 2021 — май 2022",
       job_lenvendo_location: "[ Россия, Санкт‑Петербург, аутсорс разработка высоконагруженных проектов]",
 
@@ -240,7 +240,7 @@
       job_lenvendo_sber_5: "> Использовал TypeScript, Vue, Vuex, Vuetify, Axios и Pug/Stylus",
 
       job_umi_title:
-        'FRONT-END DEVELOPER @ 1C - UMI <span class="subtitle_small">/ апрель 2018 — апрель 2021</span>',
+        'ФРОНТЕНД-РАЗРАБОТЧИК @ 1C - UMI <span class="subtitle_small">/ апрель 2018 — апрель 2021</span>',
       job_umi_dates: "/ апрель 2018 — апрель 2021",
       job_umi_location: "[ Россия, Санкт‑Петербург, конструктор сайтов ]",
       job_umi_1:
