@@ -103,6 +103,10 @@ html[lang="ru"] .title_info {
 .contacts svg path {
     fill: #000000;
 }
+.contacts > li {
+    user-select: none;
+    -webkit-user-select: none;
+}
 .contacts > li:hover svg, .contacts > li:hover svg path {
     fill: #ffffff;
 }
@@ -110,6 +114,10 @@ html[lang="ru"] .title_info {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.contacts > li > a:focus {
+    outline: none;
+    text-decoration: none;
 }
 .contacts svg, .contacts svg path {
     transition: all .5s ease;

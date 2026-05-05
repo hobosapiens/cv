@@ -23,9 +23,9 @@
       summary_text:
         "Front-end developer with 8 years of commercial experience building enterprise websites, web applications, admin panels, and scalable user interfaces. I am currently looking for a long-term front-end development opportunity.",
       summary_core_stack:
-        '> Core stack: <span class="black">HTML, CSS, JavaScript, Vue 2/3, Nuxt, Vuex, Pinia</span>',
+        '> Core stack: <span class="black">JavaScript, TypeScript, Vue 2/3, Nuxt, Vuex, Pinia</span>',
       summary_additional:
-        '> Additional expertise: <span class="black">TypeScript, React, jQuery, Jest, Node.js, micro-frontends</span>',
+        '> Additional expertise: <span class="black">React, jQuery, Node.js, Jest, HTML, CSS</span>',
 
       experience_title: "Relevant Experience",
 
@@ -34,7 +34,7 @@
       job_rabata_dates: "/ March 2025 - March 2026",
       job_rabata_location: "[ England, London, diversified startup ]",
       job_rabata_1: "> Maintained front-end code across multiple company projects",
-      job_rabata_2: "> Improved and refactored legacy code",
+      job_rabata_2: "> Refactored legacy code, improved code structure, and reduced Bootstrap dependency",
       job_rabata_3: "> Optimized Core Web Vitals and front-end performance",
       job_rabata_4: "> Worked with video streaming and custom video player functionality",
       job_rabata_5: "> Developed and implemented various product features",
@@ -50,7 +50,7 @@
       job_livetyping_title:
         'FRONT-END DEVELOPER @ LIVETYPING <span class="subtitle_small">/ January 2024 - June 2024</span>',
       job_livetyping_dates: "/ January 2024 - June 2024",
-      job_livetyping_location: "[ Russia, outsource, part-time ]",
+      job_livetyping_location: "[ Russia, outsource, part-time, project work ]",
       job_livetyping_text:
         "Built the front-end of the “Electronic Trade Portal”, an admin panel for managing cargo transportation tenders.\nThe application included authentication, role-based access, tender workflows, status management, tender winners, and related operations.",
       job_livetyping_1: "> Built the front-end from scratch using Vue 3 and Quasar",
@@ -58,7 +58,7 @@
       job_marfatech_title:
         'FRONT-END DEVELOPER @ MARFATECH <span class="subtitle_small">/ June 2023 - November 2023</span>',
       job_marfatech_dates: "/ June 2023 - November 2023",
-      job_marfatech_location: "[ Cyprus, online casino startup ]",
+      job_marfatech_location: "[ Cyprus, online casino startup, project work ]",
       job_marfatech_1: "> Developed new features and fixed bugs",
       job_marfatech_2: "> Participated in the migration to a micro-frontend architecture",
       job_marfatech_3: "> Worked in a fast-paced environment with high code quality standards",
@@ -104,15 +104,12 @@
         'FRONT-END DEVELOPER @ 1C - UMI <span class="subtitle_small">/ April 2018 - April 2021</span>',
       job_umi_dates: "/ April 2018 - April 2021",
       job_umi_location: "[ Russia, Saint-Petersburg, IT company producing website builder]",
-      job_umi_1:
-        "> Built cross-browser, responsive, pixel-perfect layouts for static and dynamic web pages",
-      job_umi_2: "> Developed features with vanilla JavaScript and jQuery",
-      job_umi_3: "> Integrated and configured JavaScript libraries",
-      job_umi_4: "> Troubleshot and fixed bugs in legacy JavaScript code",
-      job_umi_5:
+      job_umi_1: "> Developed features, maintained existing functionality, and fixed bugs in legacy JavaScript code using vanilla JavaScript and jQuery",
+      job_umi_2: "> Built cross-browser, responsive, pixel-perfect layouts for static and dynamic web pages",
+      job_umi_3:
         "> Created HTML templates for a website builder and maintained XSLT/PHP templates",
-      job_umi_6: "> Optimized website performance and improved Google PageSpeed scores",
-      job_umi_7: "> Created HTML email layouts",
+      job_umi_4: "> Optimized website performance and improved Google PageSpeed scores",
+      job_umi_5: "> Created HTML email layouts",
 
       skills_title: "Skills",
       skills_core_label: "core = [ ",
@@ -163,9 +160,9 @@
       summary_text:
         "8 лет коммерческого опыта в разработке корпоративных сайтов и приложений, админ-панелей и\u00A0масштабируемых веб-интерфейсов.\nИщу долгосрочную позицию разработчика с возможностью профессионального роста и участия в развитии продукта.",
       summary_core_stack:
-        '> Основной стек: <span class="black">HTML, CSS, JavaScript, Vue 2/3, Nuxt, Vuex, Pinia</span>',
+        '> Основной стек: <span class="black">JavaScript, TypeScript, Vue 2/3, Nuxt, Vuex, Pinia</span>',
       summary_additional:
-        '> Дополнительные навыки: <span class="black">TypeScript, React, jQuery, Jest, Node.js, micro-frontends</span>',
+        '> Дополнительные навыки: <span class="black">React, jQuery, Node.js, Jest, HTML, CSS</span>',
 
       experience_title: "Опыт работы",
 
@@ -174,9 +171,9 @@
       job_rabata_dates: "/ март 2025 — март 2026",
       job_rabata_location: "[ Англия, Лондон, продуктовый стартап ]",
       job_rabata_1: "> Поддерживал фронтенд в нескольких проектах компании",
-      job_rabata_2: "> Улучшал и рефакторил легаси",
+      job_rabata_2: "> Рефакторил легаси, структурировал код, избавлялся от bootstrap",
       job_rabata_3: "> Оптимизировал Core Web Vitals и производительность",
-      job_rabata_4: "> Работал с видеостримингом и улучшал видеоплеер",
+      job_rabata_4: "> Работал с видеостримингом и прокачивал видеоплеер",
       job_rabata_5: "> Разрабатывал и внедрял продуктовые фичи",
 
       job_webbankir_title:
@@ -198,7 +195,7 @@
       job_marfatech_title:
         'ФРОНТЕНД-РАЗРАБОТЧИК @ MARFATECH <span class="subtitle_small">/ июнь 2023 — ноябрь 2023</span>',
       job_marfatech_dates: "/ июнь 2023 — ноябрь 2023",
-      job_marfatech_location: "[ Кипр, стартап онлайн-казино ]",
+      job_marfatech_location: "[ Кипр, стартап онлайн-казино, проектная работа ]",
       job_marfatech_1: "> Разрабатывал фичи и исправлял баги",
       job_marfatech_2: "> Участвовал в миграции на micro-frontend архитектуру",
       job_marfatech_3: "> Работал в быстром темпе с высокими требованиями к качеству продукта",
@@ -230,7 +227,7 @@
       job_lenvendo_magnit_1: "> Участвовал в разработке интерфейсов маркетплейса",
       job_lenvendo_magnit_2: "> Поддерживал и дорабатывал Vue-приложение на TypeScript",
       job_lenvendo_magnit_3: "> Покрывал фичи тестами на Jest",
-      job_lenvendo_magnit_4: "> Работал в большой команде разработки и участвовал в CI-процессах.",
+      job_lenvendo_magnit_4: "> Работал в большой команде разработки и участвовал в CI-процессах",
 
       job_lenvendo_sber_title: "# SberMegamarket (доставка еды и товаров) ",
       job_lenvendo_sber_1: "> Сделал интерфейс админ-панели платформы маркетинговых экспериментов",
@@ -243,15 +240,13 @@
         'ФРОНТЕНД-РАЗРАБОТЧИК @ 1C - UMI <span class="subtitle_small">/ апрель 2018 — апрель 2021</span>',
       job_umi_dates: "/ апрель 2018 — апрель 2021",
       job_umi_location: "[ Россия, Санкт‑Петербург, конструктор сайтов ]",
-      job_umi_1:
-        "> Делал адаптивную кроссбраузерную вёрстку по pixel-perfect макетам для статических и динамических веб-страниц.",
-      job_umi_2: "> Разрабатывал ui фичи на ванильном JavaScript и jQuery",
-      job_umi_3: "> Интегрировал и настраивал JavaScript-библиотеки",
-      job_umi_4: "> Находил и исправлял баги в легаси проекта",
-      job_umi_5:
+      job_umi_1: "> Разрабатывал новые функции, поддерживал существующий функционал и исправлял ошибки в устаревшем JavaScript-коде с использованием JavaScript и jQuery",
+      job_umi_2:
+        "> Делал адаптивную кроссбраузерную вёрстку по pixel-perfect макетам для статических и динамических веб-страниц",
+      job_umi_3:
         "> Делал HTML-шаблоны для билдера и поддерживал шаблоны на XSLT/PHP",
-      job_umi_6: "> Оптимизировал производительность и повышал Google PageSpeed",
-      job_umi_7: "> Делал HTML-верстку писем",
+      job_umi_4: "> Оптимизировал производительность и повышал Google PageSpeed",
+      job_umi_5: "> Делал HTML-верстку писем",
 
       skills_title: "Навыки",
       skills_core_label: "основные = [ ",
