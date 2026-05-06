@@ -70,12 +70,11 @@
       job_akbars_dates: "/ June 2022 - June 2023",
       job_akbars_location: "[ Russia, Kazan, digital division of Ak Bars bank ]",
       job_akbars_1: "> Created components and interfaces with Vue and Nuxt.js",
-      job_akbars_2: "> Worked as part of the bank website development team",
-      job_akbars_3:
-        "> Integrated front-end features with internal bank services and cross-functional teams",
+      job_akbars_2: "> Developed and maintained front-end functionality using SSR and BFF architecture",
+      job_akbars_3: "> Worked as part of the bank website development team",
+      job_akbars_4: "> Integrated front-end features with internal bank services and cross-functional teams",
 
-      job_lenvendo_title:
-        'FRONT-END DEVELOPER @ LENVENDO <span class="subtitle_small">/ April 2021 - May 2022</span>',
+      job_lenvendo_title: 'FRONT-END DEVELOPER @ LENVENDO <span class="subtitle_small">/ April 2021 - May 2022</span>',
       job_lenvendo_dates: "/ April 2021 - May 2022",
       job_lenvendo_location: "[ Russia, Saint-Petersburg, development of highload projects ]",
 
@@ -207,8 +206,9 @@
       job_akbars_dates: "/ июнь 2022 — июнь 2023",
       job_akbars_location: "[ Россия, Казань, digital-подразделение банка Ак Барс ]",
       job_akbars_1: "> Делал компоненты и интерфейсы на Vue и Nuxt.js",
-      job_akbars_2: "> Работал в команде разработки сайта банка",
-      job_akbars_3:
+      job_akbars_2: "> Работал над серверным рендерингом и интеграцией приложения с BFF",
+      job_akbars_3: "> Работал в команде разработки сайта банка",
+      job_akbars_4:
         "> Интегрировал фронтенд-фичи с внутренними сервисами и командами",
 
       job_lenvendo_title:
