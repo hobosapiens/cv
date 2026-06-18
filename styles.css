@@ -34,7 +34,7 @@ h5 {
 .black {
     color: black;
 }
-a {
+a, .gray {
     color: #666666;
 }
 a:hover {
@@ -63,6 +63,7 @@ html[lang="ru"] .title_info {
 }
 .subtitle {
     font-size: 18px;
+    margin-top: 20px;
 }
 .title_small {
     margin-bottom: 10px;
@@ -199,6 +200,7 @@ li {
 }
 .experience ul {
     margin-bottom: 18px;
+    padding-left: 0;
 }
 .avatar-desktop {
     margin: 20px 0 24px;
@@ -285,9 +287,6 @@ li {
     .controls {
         width: 100%;
         margin: 20px 0 0;
-    }
-    .experience ul {
-        padding-left: 0;
     }
     .experience .subtitle_small {
         display: block;
